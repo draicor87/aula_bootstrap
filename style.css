@@ -3,14 +3,28 @@ body {
 }
 
 .navbar {
-    background-color: #D8D8D8;
+    background-color: #0B3B2E;
 }
 
 .quem-somos {
-    background-color: #bdbdbd;
+    background-color: #0B614B;
     color: white;
 }
 
 .margin {
     padding-bottom: 50px;
+    padding-top: 10PX;
+}
+
+.parceiros {
+    background-color: #088A68;
+}
+
+.serviços {
+    background-color: #04B4AE;
+}
+
+.bg-footer {
+    background-color: #071918;
+    color: white;
 }
